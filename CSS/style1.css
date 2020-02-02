@@ -22,11 +22,11 @@ p a {
          padding: 2px 14px; text-decoration: none;
          float: right;
          font-size: 15px;
-         color: #0000FF;
+         color: white;
          }
 
 p a:hover {
-           color: #00a;
+           color: yellow;
 }
 
 #site-header{

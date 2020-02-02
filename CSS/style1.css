@@ -6,7 +6,6 @@ background-image: url("../img/bg.jpg");
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
-
 }
 #top-form {
            font-variant: small-caps;
@@ -17,8 +16,7 @@ background-size: cover;
               color: blue;
               background-color: aliceblue;
               font-size: 15px;
-
-         }
+                  }
 p a {
          display: inline;
          padding: 2px 14px; text-decoration: none;
@@ -26,6 +24,7 @@ p a {
          font-size: 15px;
          color: #0000FF;
          }
+
 p a:hover {
            color: #00a;
 }

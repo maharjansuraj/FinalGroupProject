@@ -8,6 +8,68 @@ background-position: center;
 background-size: cover;
 
 }
+#top-form {
+           font-variant: small-caps;
+           font-size: 15px;
+           background-color: aliceblue;
+         }
+#button-form {
+              color: blue;
+              background-color: aliceblue;
+              font-size: 15px;
+
+         }
+p a {
+         display: inline;
+         padding: 2px 14px; text-decoration: none;
+         float: right;
+         font-size: 15px;
+         color: #0000FF;
+         }
+p a:hover {
+           color: #00a;
+}
+
+#site-header{
+  display: inline;
+font-size: 80px;
+text-shadow: 4px 4px 4px blue;
+margin: 2px;
+padding: 2px;
+font-weight: bold;
+font-size: 70px;
+color: #F3A544;
+}
+
+.fancy {
+         width: 1425px;
+         height: 100px;
+        font-weight: bold;
+        background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+         }
+
+
+
+li a {
+         display: block;
+         text-align: left; padding: 14px 16px; text-decoration:none ;
+         }
+         li a:hover {
+         background-color: white;
+                      }
+li {
+float: left;
+          }
+          ul {
+            display: inline;
+list-style-type: none;
+float: right;
+padding: 36px 0 0 0;
+overflow: hidden;
+font-size: 20px;
+color: black;
+          }
+
 
 .First {
 	width: 40%;
